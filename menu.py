@@ -1,0 +1,11 @@
+def mostrar_menu():
+    print("===== GESTOR DE TAREAS =====")
+    print("1. Mostrar todas las tareas")
+    print("2. Buscar tarea")
+    print("3. Crear tarea")
+    print("4. Modificar tarea")
+    print("5. Marcar tarea como completada")
+    print("6. Eliminar tarea")
+    print("7. Mostrar tareas pendientes")
+    print("8. Mostrar estadísticas")
+    print("9. Salir")
